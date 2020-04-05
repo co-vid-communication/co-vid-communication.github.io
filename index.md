@@ -2,7 +2,7 @@
 
 #### Envisioned by ER doctors and supporters looking for ways to better serve patients while keeping nurses and care workers safe.
 
-## **⚠🛑 Do not share outside of the CoVid development team. The content is under review and does not represent official positions of any entity or organization. This site will be updated as the project develops. **
+## **⚠🛑 Do not share outside of the Co:Vid development team. The content is under review and does not represent official positions of any entity or organization. This site will be updated as the project develops. **
 
 ## Detailed Documents:
  - [Quickstart (pdf)](documents\CoVid_quickstart.pdf)
@@ -15,7 +15,7 @@
 ## What is it?
 * A community-organized, simple tablet-based communication system that allows patients to communicate without in-person contact.
 * Putting Virtual Communication Tools directly into the hands of front line nurses to help fight COVID 19
-* Video of the vision: https://www.youtube.com/watch?v=gajnUINAbZY&feature=youtu.be
+* [Video of the vision](https://www.youtube.com/watch?v=gajnUINAbZY)
 * In just 8 steps you can take action and help Health Care Workers (HCW) and patients.
 ![Quickstart](.\assets\quickstart.png)
 
@@ -28,7 +28,8 @@
 ## Why do patients need it?
 * Eases patient stress and feelings of isolation.
 * Empowers patients to reach out to nurses, without worry of  'wasting supplies” - yes right patients are worried about this!
-* Enables patients to connect with families while hospitalizedoVisitation is not permitted, no matter what - let that sink in.
+* Enables patients to connect with families while hospitalizedo
+* Visitation is not permitted, no matter what - let that sink in.
 
 ## Why it needs you?
 * The traditional methods of new tool large scale integration do not work during a pandemic.
@@ -45,5 +46,4 @@ By using free, secure open-source software (signal.org) and consumer grade elect
 
 It also facilitates health care workers on home isolation to continue to connect with patients remotely and significantly reduces PPE consumption.
 
-
- ![Thumbs up](.\assets\thumbs_up_hallway_512.png)
+![Thumbs up](.\assets\thumbs_up_hallway_512.png)

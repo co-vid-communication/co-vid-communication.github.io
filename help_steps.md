@@ -1,6 +1,9 @@
 # Interested? Here are the steps
 [back](index.md)
 
+## **⚠🛑 Do not share outside of the Co:Vid development team. The content is under review and does not represent official positions of any entity or organization. This site will be updated as the project develops. **
+
+
 1. Start a team - Connect with likeminded house members or friends.
     * Connect with likeminded house members or friends. 
 2. Acquire tablets

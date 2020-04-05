@@ -1,5 +1,8 @@
 # How you can Help
 [back](index.md)
+
+## **⚠🛑 Do not share outside of the Co:Vid development team. The content is under review and does not represent official positions of any entity or organization. This site will be updated as the project develops. **
+
 ## Device Donations
 
 Have that old Android / Apple device laying around? Put it to good use protecting patients and HCWs in their fight against COVID-19!

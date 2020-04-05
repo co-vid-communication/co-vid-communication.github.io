@@ -1,8 +1,10 @@
 # Co:Vid Device Prepping Volunteer Guide
 
+## **⚠🛑 Do not share outside of the Co:Vid development team. The content is under review and does not represent official positions of any entity or organization. This site will be updated as the project develops. **
+
 ## Overview
 
-Your goal as a Device Prepping Volunteer is to take a donated device, wipe, install and test Single ready for use inside a Hospital.
+Your goal as a Device Prepping Volunteer is to take a donated device, wipe, install and test Signal ready for use inside a Hospital.
 
 ## Procedure
 
@@ -35,6 +37,7 @@ Your goal as a Device Prepping Volunteer is to take a donated device, wipe, inst
 ### Step 6 - Airplane + WiFi
 - In the drag-down menu, turn on Airplane mode to disable bluetooth and cell service.
 - Then, re-enable WiFi by tapping the icon. This will extend battery life and reduce background processes on the device.
+
 ### Step 7 - Install Signal directly from Signal’s website
 - Go to this URL on the device’s web browser. https://signal.org/android/apk/
 - Scroll down to the “Danger zone” and click download.
