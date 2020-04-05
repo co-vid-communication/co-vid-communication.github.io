@@ -6,19 +6,19 @@ Have that old Android / Apple device laying around? Put it to good use protectin
 
 *Tablets and phones require a minimum Android [version](#device-version-checking) of 4.4 or iOS Version 10.0 for iPhone/iPad*
 
-## Device Gathering
+## Device Gathering / Preparing / support
 
 The team needs help gathering used or refurbished tablets or phones that can be made available to patients when they arrive at the hospital. In the Vancouver BC area, please contact [SafeCare BC](https://www.safecarebc.ca/operationprotect/) 
-
-## Device Preparing / support
 
 Tech-savvy volunteers able to configure and troubleshooot devices to be included in 'Care Packets'.
 Setup Instructions [Here](device_prep.md)
 
+See steps to start a team [Here](help_steps.md)
+
 ## Championing
 
 If you are looking at this solution from another area / healthcare facility, feel free to start a local effort using the materials found here as a seed packet. 
-The team is discussing a method of providing feedback to improve methods and information, as well as distributing anonymous numbers that can be used with Signal over WiFi without . 
+The team is discussing a method of providing feedback to improve methods and information. 
 
 ## Device Version Checking
 

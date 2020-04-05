@@ -2,16 +2,15 @@
 
 #### Envisioned by ER doctors and supporters looking for ways to better serve patients while keeping nurses and care workers safe.
 
-## ** This site will be updated as the project develops **
-
-## Find out how you can [help](how_to_help.md)
-* [contact]() (establishing points of contact for the project)
+## **⚠🛑 Do not share outside of the CoVid development team. The content is under review and does not represent official positions of any entity or organization. This site will be updated as the project develops. **
 
 ## Detailed Documents:
  - [Quickstart (pdf)](documents\CoVid_quickstart.pdf)
- - [Call to Action (docx)]("documents\CoVId_CTA.docx")
  - [Installation-HCW (pdf)](documents\CoVid_Signal_installation_hcw.pdf)
  - [Installation-Patient (pdf)](documents\CoVid_Signal_installation_patient.pdf)
+
+## Find out how you can [help](how_to_help.md)
+* [contact]() (currently establishing points of contact for the project)
 
 ## What is it?
 * A community-organized, simple tablet-based communication system that allows patients to communicate without in-person contact.
