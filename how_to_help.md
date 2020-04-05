@@ -13,7 +13,7 @@ Have that old Android / Apple device laying around? Put it to good use protectin
 
 The team needs help gathering used or refurbished tablets or phones that can be made available to patients when they arrive at the hospital. In the Vancouver BC area, please contact [SafeCare BC](https://www.safecarebc.ca/operationprotect/) 
 
-Tech-savvy volunteers able to configure and troubleshooot devices to be included in 'Care Packets'.
+Tech-savvy volunteers able to configure and troubleshoot devices to be included in 'Care Packets'.
 Setup Instructions [Here](device_prep.md)
 
 See steps to start a team [Here](help_steps.md)

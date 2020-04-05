@@ -9,9 +9,9 @@ I am a :
 [HealthCare Worker](role_hcw.md) | [Healthcare Coordinator](role_hcw_admin.md) | [Non-HC Volunteer (Tech)](role_tech.md) | [Non-HC Volunteer (Non-Tech)](role_community.md)
 
 ## Detailed Documents:
- - [Quickstart (pdf)](documents\CoVid_quickstart.pdf)
- - [Installation-HCW (pdf)](documents\CoVid_Signal_installation_hcw.pdf)
- - [Installation-Patient (pdf)](documents\CoVid_Signal_installation_patient.pdf)
+ - [Quickstart (pdf)](documents/CoVid_quickstart.pdf)
+ - [Installation-HCW (pdf)](documents/CoVid_Signal_installation_hcw.pdf)
+ - [Installation-Patient (pdf)](documents/CoVid_Signal_installation_patient.pdf)
 
 ## Find out how you can [help](how_to_help.md)
 * [contact]() (currently establishing points of contact for the project)
@@ -21,7 +21,7 @@ I am a :
 * Putting Virtual Communication Tools directly into the hands of front line nurses to help fight COVID 19
 * [Video of the vision](https://www.youtube.com/watch?v=gajnUINAbZY)
 * In just 8 steps you can take action and help Health Care Workers (HCW) and patients.
-![Quickstart](.\assets\quickstart.png)
+![Quickstart](assets/quickstart.png)
 
 ## Why do Health Care Workers need it?
 * Eases HCW Stress and increases safety
@@ -50,4 +50,4 @@ By using free, secure open-source software (signal.org) and consumer grade elect
 
 It also facilitates health care workers on home isolation to continue to connect with patients remotely and significantly reduces PPE consumption.
 
-![Thumbs up](.\assets\thumbs_up_hallway_512.png)
+![Thumbs up](assets/thumbs_up_hallway_512.png)

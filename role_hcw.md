@@ -6,5 +6,5 @@
 Healthcare worker on the front lines of the COVID-19 fight. 🩺♥ Thank you!
 
 ## Resources
-* [Install Signal](documents\CoVid_Signal_installation_hcw.pdf)
+* [Install Signal](documents/CoVid_Signal_installation_hcw.pdf)
 * [TBD: Making a Call]()

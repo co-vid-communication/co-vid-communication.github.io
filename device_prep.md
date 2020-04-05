@@ -11,7 +11,7 @@ Your goal as a Device Prepping Volunteer is to take a donated device, wipe, inst
 ### Step 1 - Check device is supported
 - In the settings, check the device’s Android version. If it’s under 4.4, we cannot use it as it is. So stop here and move on to another device.
 - An update may be available for this device but you should only spend time looking for and applying an update if there are no other devices to process.
-- If working through a batch, setting up newer models first is more likely to go smoother; older models may require extra steps or googling.
+- If working through a batch, setting up newer models first is more likely to go smoother; older models may require extra steps or Googling.
 
 ### Step 2 - Charge device
 - Ensure the device has significant charge, suggest > 50%, and leave connected for the rest of the process if possible.

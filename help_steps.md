@@ -3,8 +3,8 @@
 
 ## **⚠🛑 Do not share outside of the Co:Vid development team. The content is under review and does not represent official positions of any entity or organization. This site will be updated as the project develops. **
 
-1. Start a team - Connect with likeminded house members or friends.
-    * Connect with likeminded house members or friends. 
+1. Start a team
+    * Connect with like-minded house members or friends. 
     * Be conscious of your local guidelines for social distancing and any 'stay home' orders. 
     * Do your part to stay safe for the healthcare workers and patients you are supporting!  
 2. Acquire tablets
