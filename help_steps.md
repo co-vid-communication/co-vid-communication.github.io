@@ -1,11 +1,12 @@
 # Interested? Here are the steps
-[back](index.md)
+[Home](index.md)
 
 ## **⚠🛑 Do not share outside of the Co:Vid development team. The content is under review and does not represent official positions of any entity or organization. This site will be updated as the project develops. **
 
-
 1. Start a team - Connect with likeminded house members or friends.
     * Connect with likeminded house members or friends. 
+    * Be conscious of your local guidelines for social distancing and any 'stay home' orders. 
+    * Do your part to stay safe for the healthcare workers and patients you are supporting!  
 2. Acquire tablets
     * Collect new or used tablets/phones from your community.
     * Reach out to your friends, work networks, any source you have or purchase if funds allow.
@@ -31,4 +32,4 @@
     * if you had success and want to prep additional sets - go for it!
     * Make this process go 'viral' so we can kick this virus' A$$!!
 
-### 'Never doubt that a small group of thoughtful, committed citizens canchange the world; indeed, it's the only thing that ever has.’ -Margaret Mead-
+### 'Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has.’ -Margaret Mead-

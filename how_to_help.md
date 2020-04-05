@@ -1,5 +1,5 @@
 # How you can Help
-[back](index.md)
+[Home](index.md)
 
 ## **⚠🛑 Do not share outside of the Co:Vid development team. The content is under review and does not represent official positions of any entity or organization. This site will be updated as the project develops. **
 
@@ -20,7 +20,7 @@ See steps to start a team [Here](help_steps.md)
 
 ## Championing
 
-If you are looking at this solution from another area / healthcare facility, feel free to start a local effort using the materials found here as a seed packet. 
+If you are looking at this solution from another area / healthcare facility, feel free to start a local effort using the materials found here as a seed packet.
 The team is discussing a method of providing feedback to improve methods and information. 
 
 ## Device Version Checking

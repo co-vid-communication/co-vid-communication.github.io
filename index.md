@@ -4,6 +4,10 @@
 
 ## **⚠🛑 Do not share outside of the Co:Vid development team. The content is under review and does not represent official positions of any entity or organization. This site will be updated as the project develops. **
 
+### Role QuickLinks: 
+I am a :
+[HealthCare Worker](role_hcw.md) | [Healthcare Coordinator](role_hcw_admin.md) | [Non-HC Volunteer (Tech)](role_tech.md) | [Non-HC Volunteer (Non-Tech)](role_community.md)
+
 ## Detailed Documents:
  - [Quickstart (pdf)](documents\CoVid_quickstart.pdf)
  - [Installation-HCW (pdf)](documents\CoVid_Signal_installation_hcw.pdf)
@@ -28,7 +32,7 @@
 ## Why do patients need it?
 * Eases patient stress and feelings of isolation.
 * Empowers patients to reach out to nurses, without worry of  'wasting supplies” - yes right patients are worried about this!
-* Enables patients to connect with families while hospitalizedo
+* Enables patients to connect with families while hospitalized
 * Visitation is not permitted, no matter what - let that sink in.
 
 ## Why it needs you?
@@ -42,7 +46,7 @@
 
 # Secure 1-1 video communication tools for Healthcare Workers
 
-By using free, secure open-source software (signal.org) and consumer grade electronics the team can set up a system with encryption between patient and health care worker.  This allows for secure virtual video, voice and text within the hospital setting without significant disruption to the existing workflows used to care for patients. 
+By using free, secure open-source software (signal.org) and consumer grade electronics the team can set up a system with encryption between patient and health care worker. This allows for secure virtual video, voice and text within the hospital setting without significant disruption to the existing workflows used to care for patients. 
 
 It also facilitates health care workers on home isolation to continue to connect with patients remotely and significantly reduces PPE consumption.
 
