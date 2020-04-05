@@ -43,6 +43,8 @@ Your goal as a Device Prepping Volunteer is to take a donated device, wipe, inst
 - Scroll down to the “Danger zone” and click download.
 - Open the downloaded file, you will be prevented from installing it, but should be given a button to get quick access to the settings to allow a one time installation of an untrusted app.
 
+![Danger zone](assets/deviceprep/dangerzone.jpg)
+
 ### Step 8 - Register a number
 - Open Signal and enter one of the numbers supplied to you.
 - Enter the corresponding SMS code on the next screen.
