@@ -6,7 +6,7 @@
 
 ### Role QuickLinks: 
 I am a:
-[HealthCare Worker](role_hcw.md) | [Healthcare Super User](role_hcw_admin.md) | [Volunteer (Tech)](role_tech.md) | [Volunteer (Non-Tech)](role_community.md) 
+[Patient](role_patient.md) | [HealthCare Worker](role_hcw.md) | [Healthcare Super User](role_hcw_admin.md) | [Volunteer (Tech)](role_tech.md) | [Volunteer (Non-Tech)](role_community.md) 
 
 ## Detailed Documents:
  - [Quickstart (pdf)](documents\CoVid_quickstart.pdf)
