@@ -16,8 +16,7 @@ The team needs help gathering used or refurbished tablets or phones that can be 
 Tech-savvy volunteers able to configure and troubleshoot devices to be included in 'Care Packets'.
 Setup Instructions [Here](device_prep.md)
 
-See steps to start a team [Here](help_steps.md)
-
+## See steps to start a team [Here](help_steps.md)
 ## Championing
 
 If you are looking at this solution from another area / healthcare facility, feel free to start a local effort using the materials found here as a seed packet.
