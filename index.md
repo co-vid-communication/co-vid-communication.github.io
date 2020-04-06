@@ -6,7 +6,7 @@
 
 ### Role QuickLinks: 
 I am a:
-[HealthCare Worker](role_hcw.md) | [Healthcare Coordinator](role_hcw_admin.md) | [Volunteer (Tech)](role_tech.md) | [Volunteer (Non-Tech)](role_community.md) 
+[HealthCare Worker](role_hcw.md) | [Healthcare Super User](role_hcw_admin.md) | [Volunteer (Tech)](role_tech.md) | [Volunteer (Non-Tech)](role_community.md) 
 
 ## Detailed Documents:
  - [Quickstart (pdf)](documents\CoVid_quickstart.pdf)
@@ -50,3 +50,6 @@ By using free, secure open-source software (signal.org) and consumer grade elect
 It also facilitates health care workers on home isolation to continue to connect with patients remotely and significantly reduces PPE consumption.
 
 ![Thumbs up](.\assets\thumbs_up_hallway_512.png)
+
+## Disclaimer information
+- Signal is a secure messaging app.  Messages are stored on your device.  They are never stored on Signal's server (except temporarily then deleted).  In particular they are never stored on a US or foreign server and subject to US or foreign laws.
