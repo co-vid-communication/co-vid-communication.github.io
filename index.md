@@ -10,7 +10,6 @@ I am a:
 
 ## Detailed Documents:
  - [Quickstart (pdf)](documents\CoVid_quickstart.pdf)
- - [Installation-Patient (pdf)](documents\CoVid_Signal_installation_patient.pdf)
 
 ## Find out how you can [help](how_to_help.md)
 * [contact]() (currently establishing points of contact for the project)
