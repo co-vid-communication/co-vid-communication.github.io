@@ -46,11 +46,14 @@ Your goal as a Device Prepping Volunteer is to take a donated device, wipe, inst
 ![Danger zone](assets/deviceprep/dangerzone.jpg)
 
 ### Step 8 - Register a number
-- Open Signal and enter one of the numbers supplied to you.
-- Enter the corresponding SMS code on the next screen.
-- Again, do not use a real name. Enter “Patient” as first name.
+- To request new number(s), contact *(signal.activation - at - gmail .com)*
+    - Include your name, location, intended destination of devices and # of activations needed.
+- Open Signal and enter one of the numbers supplied to you. 
+- Enter the corresponding SMS code on the next screen (also provided).
+- Again, do not use a real name for the device. Enter “Patient” as first name.
 - If you are prompted to set a pin, choose 1111.
 - ⚠️Be very careful not to reuse a number, you will end up disabling the first device which may already be in the hospital.
+- Once allocated, you are responsible for managing your block of numbers.
 
 ### Step 9 - Do a test
 - Using a test device, send some messages and do a test video call between it and the newly set up unit.

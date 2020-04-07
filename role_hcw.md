@@ -7,7 +7,7 @@ Healthcare worker on the front lines of the COVID-19 fight. 🩺♥ Thank you!
 
 ## Resources
 * [Install Signal](documents/CoVid_Signal_installation_hcw.pdf)
-* [Making a Call](documents/CoVid_call_hcw.pdf)
+* [Calling Patient](documents/CoVid_hcw_call_patient.pdf)
 
 ## Privacy / Disclaimer Information
 1. We ("health care workers" or "HCW") are using Signal to communicate with patients on their medical issues.
