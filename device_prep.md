@@ -1,5 +1,4 @@
-[Home](index.md)
-# Co:Vid Device Prep Guide
+# Device Prep Guide
 
 #### **⚠🛑 Do not share outside of the Co:Vid development team. The content is under review and does not represent official positions of any entity or organization. This site will be updated as the project develops. **
 
