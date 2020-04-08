@@ -9,7 +9,7 @@ Patient resources. 🐱‍🏍♥ Hang in there!
 ## Resources
 * [Quickstart](documents/cvt_patient_quickstart.pdf)
 * [Install Signal](documents/cvt_patient_install.pdf)
-* [Contacting your Nurse](documents/CoVid_patient_texting_hcw.pdf)
+* [Contacting your Nurse](documents/cvt_patient_text_hcw.pdf)
 
 ## Privacy / Disclaimer Information
 1. If you are getting a loaner device check that you delete all messages before giving it back to your care provider
