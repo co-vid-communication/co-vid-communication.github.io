@@ -1,10 +1,11 @@
-# Co:Vid Device Prepping Volunteer Guide
+[Home](index.md)
+# Co:Vid Device Prep Guide
 
-## **⚠🛑 Do not share outside of the Co:Vid development team. The content is under review and does not represent official positions of any entity or organization. This site will be updated as the project develops. **
+#### **⚠🛑 Do not share outside of the Co:Vid development team. The content is under review and does not represent official positions of any entity or organization. This site will be updated as the project develops. **
 
 ## Overview
 
-Your goal as a Device Prepping Volunteer is to take a donated device, wipe, install and test Signal ready for use inside a Hospital.
+Your goal as a Device Prep Volunteer is to take a donated device, wipe, install and test Signal ready for use inside a Hospital.
 
 ## Procedure
 
@@ -12,6 +13,19 @@ Your goal as a Device Prepping Volunteer is to take a donated device, wipe, inst
 - In the settings, check the device’s Android version. If it’s under 4.4, we cannot use it as it is. So stop here and move on to another device.
 - An update may be available for this device but you should only spend time looking for and applying an update if there are no other devices to process.
 - If working through a batch, setting up newer models first is more likely to go smoother; older models may require extra steps or Googling.
+#### Android: To check your version:
+ 1. From the slide down menu open your settings (gear wheel).
+ 2. Scroll to the bottom to find 'About Phone/Tablet'
+ 3. If Android version is 4.4 or greater, it can be used for this project.
+ 4. If you are able, remove any SIM card and perform a factory reset of the device before donation to clear your information (Usually in settings under Backup & Reset).
+ 
+### Device Version Checking
+#### iPhone / iPad: To check your version:
+ 1. Go to Settings > General > About
+ 2. In the About page, find the Software Version.
+ 3. If it is 10.0 or greater, it can be used for this project.
+ 4. If you are able, remove any SIM card and perform a factory reset of the device before donation to clear your information (Usually in settings under Backup & Reset).
+
 
 ### Step 2 - Charge device
 - Ensure the device has significant charge, suggest > 50%, and leave connected for the rest of the process if possible.
@@ -43,15 +57,10 @@ Your goal as a Device Prepping Volunteer is to take a donated device, wipe, inst
 - Scroll down to the “Danger zone” and click download.
 - Open the downloaded file, you will be prevented from installing it, but should be given a button to get quick access to the settings to allow a one time installation of an untrusted app.
 
-![Danger zone](assets/deviceprep/dangerzone.jpg)
+![Danger zone](assets/deviceprep/dangerzone.png)
 
-### Step 8 - Register a number
-- To request new number(s), contact *(signal.activation - at - gmail .com)*
-    - Include your name, location, intended destination of devices and # of activations needed.
-- Open Signal and enter one of the numbers supplied to you. 
-- Enter the corresponding SMS code on the next screen (also provided).
-- Again, do not use a real name for the device. Enter “Patient” as first name.
-- If you are prompted to set a pin, choose 1111.
+### Step 8 - Final steps
+- To request new number(s) and prepare your package, follow [These instructions](documents/cvt_final_device_setup.pdf)
 - ⚠️Be very careful not to reuse a number, you will end up disabling the first device which may already be in the hospital.
 - Once allocated, you are responsible for managing your block of numbers.
 
