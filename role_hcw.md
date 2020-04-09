@@ -9,6 +9,7 @@ Healthcare worker on the front lines of the COVID-19 fight. 🩺♥ Thank you!
 * [Install Signal For HCW](documents/cvt_hcw_installation.pdf)
 * [Install Signal for Patients](documents/cvt_patient_quickstart.pdf)
 * [Calling Patient Quickstart](documents/cvt_hcw_quickstart.pdf)
+* [Uninstall & Unregister Signal](documents/cvt_patient_unregister.pdf)
 
 ## Championing
 If you are looking at this solution from another area / healthcare facility, feel free to start a local effort using the materials found here as a seed packet.
