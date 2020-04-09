@@ -12,18 +12,18 @@ Your goal as a Device Prep Volunteer is to take a donated device, wipe, install 
 - In the settings, check the device’s Android version. If it’s under 4.4, we cannot use it as it is. So stop here and move on to another device.
 - An update may be available for this device but you should only spend time looking for and applying an update if there are no other devices to process.
 - If working through a batch, setting up newer models first is more likely to go smoother; older models may require extra steps or Googling.
+
 #### Android: To check your version:
- 1. From the slide down menu open your settings (gear wheel).
- 2. Scroll to the bottom to find 'About Phone/Tablet'
- 3. If Android version is 4.4 or greater, it can be used for this project.
- 4. If you are able, remove any SIM card and perform a factory reset of the device before donation to clear your information (Usually in settings under Backup & Reset).
- 
-### Device Version Checking
+1. From the slide down menu open your settings (gear wheel).
+2. Scroll to the bottom to find 'About Phone/Tablet'
+3. If Android version is 4.4 or greater, it can be used for this project.
+4. If you are able, remove any SIM card and perform a factory reset of the device before donation to clear your information (Usually in settings under Backup & Reset).
+
 #### iPhone / iPad: To check your version:
- 1. Go to Settings > General > About
- 2. In the About page, find the Software Version.
- 3. If it is 10.0 or greater, it can be used for this project.
- 4. If you are able, remove any SIM card and perform a factory reset of the device before donation to clear your information (Usually in settings under Backup & Reset).
+1. Go to Settings > General > About
+2. In the About page, find the Software Version.
+3. If it is 10.0 or greater, it can be used for this project.
+4. If you are able, remove any SIM card and perform a factory reset of the device before donation to clear your information (Usually in settings under Backup & Reset).
 
 
 ### Step 2 - Charge device
@@ -66,3 +66,9 @@ Your goal as a Device Prep Volunteer is to take a donated device, wipe, install 
 ### Step 9 - Do a test
 - Using a test device, send some messages and do a test video call between it and the newly set up unit.
 - During messaging, do not add the devices as contacts to each other, just select the “share profile” option. Delete the conversations afterwards.
+
+### Step 10 - Prepare Care Package
+- Either [Download and 3D Print a Stand for Devices (stl model)](assets/cvt_device_holder_model.stl) or source another way to hold and charge the devices.
+
+
+*Use of this information is subject to these [Terms and Conditions](terms_conditions.md)* 

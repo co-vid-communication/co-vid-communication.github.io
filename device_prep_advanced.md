@@ -39,3 +39,5 @@ This series of steps assumes something went wrong with the steps above. It will 
 * Press {enter}
     * The application will be installed.
 
+
+*Use of this information is subject to these [Terms and Conditions](terms_conditions.md)* 

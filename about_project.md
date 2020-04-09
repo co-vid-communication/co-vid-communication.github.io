@@ -1,17 +1,14 @@
 # About Project
 
-#### **⚠🛑 Do not share outside of the Co:Vid development team. The content is under review and does not represent official positions of any entity or organization. This site will be updated as the project develops. **
-
-### Reference Documents:
- - [Blueprint](documents\cvt_blueprint.pdf)
+[Project Proposal (pdf)](documents\cvt_blueprint.pdf)
 
 ## What is it?
 * A community-organized, simple tablet-based communication system that allows patients to communicate without in-person contact.
 * It puts virtual communication tools directly into the hands of front line nurses who are fighting COVID-19.
-* [Vision](https://www.youtube.com/watch?v=gajnUINAbZY)
+* [1min Video Demonstration](https://www.youtube.com/watch?v=gajnUINAbZY)
 * By [**Starting a Team**](help_steps.md) you can take action and help Health Care Workers (HCW) and patients.
-
-![Quickstart](.\assets\quickstart.png)
+  
+  ![Thumbs up](assets/nurses_care_packs_thumbs_up_512.png)
 
 ## Why do Health Care Workers need it?
 * Eases HCW Stress and increases safety
@@ -33,3 +30,5 @@
 ## What does it take?
 * Groups of 'package creators' to reach into their communities and acquire and set-up tablets.
 * 8-12 hrs of your time over 3 days (roughly) to create a package.
+
+*Use of this information is subject to these [Terms and Conditions](terms_conditions.md)* 
