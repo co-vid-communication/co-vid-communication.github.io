@@ -34,3 +34,5 @@
     * Make this process go 'viral' so we can kick this virus' A$$!!
 
 ### 'Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has.’ -Margaret Mead-
+
+*Use of this information is subject to these [Terms and Conditions](terms_conditions.md)* 
