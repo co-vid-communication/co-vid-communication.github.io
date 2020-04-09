@@ -1,7 +1,5 @@
 # Ready to do more than make noise at 7pm ? Here are the steps
 
-### **⚠🛑 Do not share outside of the Co:Vid development team. The content is under review and does not represent official positions of any entity or organization. This site will be updated as the project develops. **
-
 1. Start a team
     * Connect with like-minded house members or friends. 
     * Be conscious of your local guidelines for social distancing and any 'stay home' orders. 
@@ -35,4 +33,4 @@
 
 ### 'Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has.’ -Margaret Mead-
 
-*Use of this information is subject to these [Terms and Conditions](terms_conditions.md)* 
+*Use of this information is subject to these [Terms and Conditions](legal.md)* 
