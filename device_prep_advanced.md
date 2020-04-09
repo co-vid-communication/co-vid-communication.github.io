@@ -1,7 +1,5 @@
 # Device Prep Guide: Advanced
 
-### **⚠🛑 Do not share outside of the Co:Vid development team. The content is under review and does not represent official positions of any entity or organization. This site will be updated as the project develops. **
-
 ## Overview
 
 This series of steps assumes something went wrong with the steps above. It will use a command line tool on a desktop/laptop computer and a usb connection to the device to manually update the phone to work with Signal. This section will be added to as problems / solutions arise.
@@ -40,4 +38,4 @@ This series of steps assumes something went wrong with the steps above. It will 
     * The application will be installed.
 
 
-*Use of this information is subject to these [Terms and Conditions](terms_conditions.md)* 
+*Use of this information is subject to these [Terms and Conditions](legal.md)* 

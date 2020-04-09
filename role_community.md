@@ -18,4 +18,4 @@ The team is discussing a method of providing feedback to improve these resources
 
 ![Completed Package](assets/care_pack_on_counter_512.png)
 
-*Use of this information is subject to these [Terms and Conditions](terms_conditions.md)* 
+*Use of this information is subject to these [Terms and Conditions](legal.md)* 

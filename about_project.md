@@ -31,4 +31,4 @@
 * Groups of 'package creators' to reach into their communities and acquire and set-up tablets.
 * 8-12 hrs of your time over 3 days (roughly) to create a package.
 
-*Use of this information is subject to these [Terms and Conditions](terms_conditions.md)* 
+*Use of this information is subject to these [Terms and Conditions](legal.md)* 

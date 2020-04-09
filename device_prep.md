@@ -1,7 +1,5 @@
 # Device Prep Guide
 
-#### **⚠🛑 Do not share outside of the Co:Vid development team. The content is under review and does not represent official positions of any entity or organization. This site will be updated as the project develops. **
-
 ## Overview
 
 Your goal as a Device Prep Volunteer is to take a donated device, wipe, install and test Signal ready for use inside a Hospital.
@@ -71,4 +69,4 @@ Your goal as a Device Prep Volunteer is to take a donated device, wipe, install 
 - Either [Download and 3D Print a Stand for Devices (stl model)](assets/cvt_device_holder_model.stl) or source another way to hold and charge the devices.
 
 
-*Use of this information is subject to these [Terms and Conditions](terms_conditions.md)* 
+*Use of this information is subject to these [Terms and Conditions](legal.md)* 

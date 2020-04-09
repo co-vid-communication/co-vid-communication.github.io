@@ -18,4 +18,4 @@ The team is discussing a method of providing feedback to improve methods and inf
 4. Signal has an option to have messages disappear after a certain time (5 seconds to 1 hour).  Use your discretion and check with the patient but we're going to tentatively recommend that between 30 minutes to 1 hour disappear on all conversations is idea.
 5. Obviously, check that you have the right phone number.  Be disciplined in authentication.
    
-*Use of this information is additionally subject to these [Terms and Conditions](terms_conditions.md)* 
+*Use of this information is additionally subject to these [Terms and Conditions](legal.md)* 
