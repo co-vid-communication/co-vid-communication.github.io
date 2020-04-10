@@ -3,7 +3,7 @@
 1. Start a team
     * Connect with like-minded house members or friends. 
     * Be conscious of your local guidelines for social distancing and any 'stay home' orders. 
-    * Do your part to stay safe for the healthcare workers and patients you are supporting!  
+    * Do your part to stay safe for the healthcare workers and patients you are supporting!
 2. Acquire tablets
     * Collect 3-4 new or used tablets/phones from your community.
     * Reach out to your friends, work networks, any source you have, or collect $ from friends and purchase if funds allow. (Amazon Fire HD8 approx $100)
