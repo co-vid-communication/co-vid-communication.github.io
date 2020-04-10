@@ -3,6 +3,7 @@
 * ## [Install Signal For HCW (PDF)](documents/cvt_hcw_installation.pdf)
 * ## [Install Signal for Patients (PDF)](documents/cvt_patient_quickstart.pdf)
 * ## [Uninstall Signal (PDF)](documents/cvt_patient_unregister.pdf)
+* ## [Poster for Patient Room (PDF)](documents/cvt_hcw_patient_poster.pdf)
 
 ## Tips from HCWs using this system:
 1. Try to set up your stand right where the nurse does their charting. We found that in order for the devices to be used, they had to be in your face at your workstation.
