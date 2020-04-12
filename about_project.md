@@ -5,7 +5,7 @@
 ## What is it?
 * A community-organized, simple tablet-based communication system that allows patients to communicate without in-person contact.
 * It puts virtual communication tools directly into the hands of front line nurses who are fighting COVID-19.
-* [1min Video Demonstration](https://www.youtube.com/watch?v=gajnUINAbZY)
+* [1min Video Demonstration](https://youtu.be/6ZVUICEj1T8)
 * By [**Starting a Team**](help_steps.md) you can take action and help Health Care Workers (HCW) and patients.
   
   ![Thumbs up](assets/nurses_care_packs_thumbs_up_512.png)
